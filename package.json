@@ -1,0 +1,16 @@
+{
+  "name": "assetmanagement",
+  "version": "1.0.0",
+  "description": "Webpack asset management practice.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx webpack"
+  },
+  "author": "Kyle Sweigart",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {}
+}
